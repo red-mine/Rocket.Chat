@@ -903,7 +903,7 @@ export class AppsRestApi {
 				},
 			},
 		);
-
+/*
 		this.api.addRoute(
 			':id/screenshots',
 			{ authRequired: false },
@@ -926,7 +926,7 @@ export class AppsRestApi {
 				},
 			},
 		);
-
+*/
 		this.api.addRoute(
 			':id/languages',
 			{ authRequired: false },
